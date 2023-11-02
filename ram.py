@@ -1,0 +1,8 @@
+name=input("enter your  name:")
+course_branch=input("enter your branch:")
+dob=input("enter your dob:")
+roll_no=input("enter your roll no.:")
+print(name)
+print(course_branch)
+print(dob)
+print(roll_no)
